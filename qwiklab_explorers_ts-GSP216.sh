@@ -1,3 +1,7 @@
+export ZONE=
+
+export ZONE2=
+
 
 export REGION=${ZONE%-*}
 # export REGION2=${ZONE2%-*}
